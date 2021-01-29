@@ -1,6 +1,6 @@
-#### About Me
+## About Me
 My Name is Facundo Litterio.
 I'm a Full Stack Web Developer and I study Information Systems Engineering in UTN.
-¡MERN Stack is my passion!
+Currently working as a backend programming tutor at CoderHouse and on personal projects as a Freelance.
 
-Tnahks for watching... ¡Regards!
+Thanks for watching... ¡Regards!
